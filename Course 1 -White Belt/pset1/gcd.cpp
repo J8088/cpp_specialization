@@ -1,3 +1,7 @@
+/*
+* Find the greatest common divisor of two integers;
+*/
+
 #include <iostream>
 
 using namespace std;
