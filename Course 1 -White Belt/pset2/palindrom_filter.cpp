@@ -1,3 +1,9 @@
+/*
+* Write a function PalindromFilter which takes a vector of strings and an integer minLength and returns all strings 
+* from the given vector that are palindroms with length at least minLength;
+* The given vector has length at most 100 strings. Each string length is at most 100 symbols;
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
