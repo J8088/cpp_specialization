@@ -1,3 +1,9 @@
+/*
+* Given two natural numbers A and B, find the integer part of their quotient; 
+* Both numbers are less than 1 000 000;
+* If B = 0 return "Impossible";
+*/
+
 #include <iostream>
 
 using namespace std;
