@@ -1,3 +1,8 @@
+/*
+* Given coefficients A, B, and C of quadratic equation Ax² + Bx + C = 0 return all of its real roots in any order; 
+* At least one of the coefficients isn't equal to 0;
+*/
+
 #include <iostream>
 #include <cmath>
 
