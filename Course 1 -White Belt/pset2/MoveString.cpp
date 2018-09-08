@@ -1,3 +1,9 @@
+/*
+* Write a function MoveStrings that takes two vectors of strings as parameters and adds all strings 
+* from the first vector at the end of the second vector;
+* After the function terminated the first vector must be empty;
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
