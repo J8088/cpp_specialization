@@ -1,3 +1,9 @@
+/*
+* Write a function void Reverse(vector<int>& v) that rearranges the vector elements in the reverse order;
+*/
+
+Реализуйте функцию , которая переставляет элементы вектора в обратном порядке.
+
 #include <iostream>
 #include <vector>
 #include <sstream>
