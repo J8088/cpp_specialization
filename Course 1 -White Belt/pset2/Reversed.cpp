@@ -1,3 +1,8 @@
+/*
+* Write a function vector<int> Reversed(const vector<int>& v) that returns copy of the given vector
+* with its elements in the reverse order;
+*/
+
 #include <iostream>
 #include <vector>
 #include <sstream>
