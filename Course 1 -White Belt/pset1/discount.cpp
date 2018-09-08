@@ -1,3 +1,11 @@
+/*
+* Calculate the purchase price with discount;
+* If the purchase amount is more than A rubles, then the X% discount is given;
+* If the purchase amount is more than B rubles, then the Y% discount is given;
+* Input: five real numbers separated by a space: N, A, B, X, Y (A < B), N is the initial price of the purchase;
+* Output: price with discount;
+*/
+
 #include <iostream>
 
 using namespace std;
