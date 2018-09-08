@@ -1,3 +1,12 @@
+/*
+* Input: three lowercase strings separated by a space.
+* Output: return the lexicographically minimal string
+* Example: 
+* stdin: milk milkshake month	stdout: milk
+* stdin: c a b	stdout: a
+* stdin: fire fog wood	stdout: fire
+*/
+
 #include <iostream>
 #include <vector>
 
