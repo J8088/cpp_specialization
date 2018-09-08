@@ -1,3 +1,7 @@
+/*
+* Given two integers A and B (A <= B, A >= 1, B <= 30000) return all even numbers from A to B inclusive separated by a space;
+*/
+
 #include <iostream>
 
 using namespace std;
