@@ -1,10 +1,5 @@
 /*
-* Input: three lowercase strings separated by a space.
-* Output: return the lexicographically minimal string
-* Example: 
-* stdin: milk milkshake month	stdout: milk
-* stdin: c a b	stdout: a
-* stdin: fire fog wood	stdout: fire
+* Given a positive integer N return its binary representation without leading zeros;
 */
 
 #include <iostream>
