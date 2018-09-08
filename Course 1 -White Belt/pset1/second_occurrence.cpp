@@ -1,3 +1,9 @@
+/*
+* Given a string find the second occurrence of letter "f" and return its index;
+* If "f" is found only once return -1;
+* If "f" is not found return -2;
+*/
+
 #include <iostream>
 #include <string>
 
